@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wendiliu/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.3.1/e6e664ab1b59d2504c3529f128747c13487f96ca/robotium-solo-5.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e6e664ab1b59d2504c3529f128747c13487f96ca">
+        <dex dex="/Users/wendiliu/AndroidStudioProjects/Lab3b_PermissionsLab/app/build/intermediates/pre-dexed/androidTest/debug/robotium-solo-5.3.1-90845ef8ea46c886f92de32dfb5f354ab3ae9629.jar" />
+    </item>
+    <item
+        jar="/Users/wendiliu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/wendiliu/AndroidStudioProjects/Lab3b_PermissionsLab/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-7c0b69222b31f54b802feb84e7ecd44e48567b21.jar" />
+    </item>
+
+</items>
